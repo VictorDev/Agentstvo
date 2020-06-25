@@ -1,0 +1,21 @@
+C:\Users\Виктор\source\repos\Agentstvo\Agentstvo\bin\Debug\Agentstvo.exe.config
+C:\Users\Виктор\source\repos\Agentstvo\Agentstvo\bin\Debug\Agentstvo.exe
+C:\Users\Виктор\source\repos\Agentstvo\Agentstvo\bin\Debug\Agentstvo.pdb
+C:\Users\Виктор\source\repos\Agentstvo\Agentstvo\obj\Debug\Agentstvo.csprojAssemblyReference.cache
+C:\Users\Виктор\source\repos\Agentstvo\Agentstvo\obj\Debug\Agentstvo.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\source\repos\Agentstvo\Agentstvo\obj\Debug\Agentstvo.exe
+C:\Users\Виктор\source\repos\Agentstvo\Agentstvo\obj\Debug\Agentstvo.pdb
+C:\Users\Виктор\Desktop\курсовая\копия 2\Agentstvo\Agentstvo\obj\Debug\Agentstvo.csprojAssemblyReference.cache
+C:\Users\Виктор\Desktop\курсовая\копия 2\Agentstvo\Agentstvo\obj\Debug\Agentstvo.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\курсовая\копия 2\Agentstvo\Agentstvo\obj\Debug\Agentstvo.exe
+C:\Users\Виктор\Desktop\курсовая\копия 2\Agentstvo\Agentstvo\obj\Debug\Agentstvo.pdb
+C:\Users\Виктор\Desktop\курсовая\копия 2\Agentstvo\Agentstvo\bin\Debug\Agentstvo.exe.config
+C:\Users\Виктор\Desktop\курсовая\копия 2\Agentstvo\Agentstvo\bin\Debug\Agentstvo.exe
+C:\Users\Виктор\Desktop\курсовая\копия 2\Agentstvo\Agentstvo\bin\Debug\Agentstvo.pdb
+C:\GitHub\github\Agentstvo\Agentstvo\bin\Debug\Agentstvo.exe.config
+C:\GitHub\github\Agentstvo\Agentstvo\bin\Debug\Agentstvo.exe
+C:\GitHub\github\Agentstvo\Agentstvo\bin\Debug\Agentstvo.pdb
+C:\GitHub\github\Agentstvo\Agentstvo\obj\Debug\Agentstvo.csprojAssemblyReference.cache
+C:\GitHub\github\Agentstvo\Agentstvo\obj\Debug\Agentstvo.csproj.CoreCompileInputs.cache
+C:\GitHub\github\Agentstvo\Agentstvo\obj\Debug\Agentstvo.exe
+C:\GitHub\github\Agentstvo\Agentstvo\obj\Debug\Agentstvo.pdb
